@@ -17,7 +17,7 @@ REDIS_URL=Your redis url
 REDIS_URL=Your redis url
 ```
 
-## Deploy your own
+## Deploy your app
 
 [![Deploy to Begin](https://static.begin.com/deploy-to-begin.svg)](https://begin.com/apps/create?template=https://github.com/begin-examples/node-redis)
 
